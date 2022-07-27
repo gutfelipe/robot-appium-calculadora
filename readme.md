@@ -45,8 +45,6 @@ After `running tests`_ you will get report and log in HTML format. Example
 files are also visible online in case you are not interested in running
 the demo yourself:
 
-- `report.html`_
-- `log.html`_
+- report.html
+- log.html
 
-.. _report.html: https://serhatbolsu.github.io/robotframework-appium-sample/docs/report.html
-.. _log.html: https://serhatbolsu.github.io/robotframework-appium-sample/docs/log.html
