@@ -1,0 +1,19 @@
+calculate_page: 
+  button_1:  accessibility_id=Text_1   
+  button_2:  accessibility_id=Text_2
+  button_3:  accessibility_id=Text_3 
+  button_4:  accessibility_id=Text_4 
+  button_5:  accessibility_id=Text_5 
+  button_6:  accessibility_id=Text_6 
+  button_7:  accessibility_id=Text_7 
+  button_8:  accessibility_id=Text_8 
+  button_9:  accessibility_id=Text_9 
+  button_0:  accessibility_id=Text_0 
+  button_clear:  accessibility_id=Text_AC 
+  button_division:  accessibility_id=Text_/    
+  button_multiplication:  accessibility_id=Text_*     
+  button_subtract:  accessibility_id=Text_-     
+  button_sum:  accessibility_id=Text_+     
+  button_equals:  accessibility_id=Text_=     
+  button_dot:  accessibility_id=Text_.      
+  screen_result: xpath=//android.view.ViewGroup[@content-desc="View_container"]/android.view.ViewGroup[1]/android.widget.TextView
